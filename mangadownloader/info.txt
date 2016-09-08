@@ -1,0 +1,12 @@
+Sanskar Chand
+sanskarchand at-the-r-a-t-e g-m-aaail (dot) com
+
+
+These are shell scripts that download html files from manga-hosting websites
+and runs a python script to rip the relevant images out.
+The instructions are contained in the form of comments within the scripts themselves, and
+different slightly-altered versions have been made in order to tackle different situations.
+
+The manganame must me identical to the name given to the manga in the URL of the relevant page.
+
+ 
